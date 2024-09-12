@@ -1,13 +1,13 @@
 {
-  "name": "serverless",
-  "version": "3.39.0",
-  "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more",
+  "name": "openless",
+  "version": "0.1.0",
+  "description": "Openless Framework",
   "preferGlobal": true,
-  "homepage": "https://serverless.com/framework/docs/",
-  "author": "serverless.com",
-  "repository": "serverless/serverless",
+  "homepage": "",
+  "author": "",
+  "repository": "OptionMetrics/openless",
   "keywords": [
-    "serverless",
+    "openless",
     "lambda",
     "aws",
     "amazon",
@@ -16,10 +16,10 @@
     "apache-open-whisk",
     "iot"
   ],
-  "main": "lib/serverless.js",
+  "main": "lib/openless.js",
   "bin": {
-    "serverless": "./bin/serverless.js",
-    "sls": "./bin/serverless.js"
+    "serverless": "./bin/openless.js",
+    "sls": "./bin/openless.js"
   },
   "dependencies": {
     "@aws-sdk/client-api-gateway": "^3.588.0",
